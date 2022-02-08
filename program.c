@@ -2,7 +2,7 @@
 #include<stdlib.h>
 
 /*
-Write a program in C, which reads an array of type int A with K columns and K rows.
+A program in C, which reads an array of type int A with K columns and K rows.
 Count the positive elements lying above the main diagonal (including the diagonal). 
 */
 
